@@ -29,7 +29,7 @@ This is an Express API project with user registration, login, and CRUD operation
 ![Update User](./screenshots/Update%20User.png)
 
 ### Time Completed
-![Time Completed](./screenshots/timecompleted.png)
+![Time Completed](./screenshots/TimeCompleted.png)
 
 ## Installation
 
