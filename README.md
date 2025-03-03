@@ -28,5 +28,11 @@ This is an Express API project with user registration, login, and CRUD operation
 ### Update User
 ![Update User](./screenshots/Update%20User.png)
 
+### Time Completed
+![Time Completed](./screenshots/timecompleted.png)
 
+## Installation
 
+1. Clone the repository
+   ```sh
+   git clone https://github.com/yourusername/express-api.git
